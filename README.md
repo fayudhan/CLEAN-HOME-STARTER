@@ -28,7 +28,7 @@ npm -v   # Should output the npm version
    Use the following command to clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/fayudhan/abstract-starter.git
+   git clone https://github.com/fayudhan/CLEAN-HOME-STARTER.git
    ```
 
 2. **Navigate to the Project Directory**
