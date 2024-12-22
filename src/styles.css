@@ -3,13 +3,9 @@
 @tailwind utilities;
 
 html {
-  font-size: 15px; /* 1rem = 16px */
+  font-size: 15px;
 }
 
 body {
   font-family: "Roboto", sans-serif;
-}
-
-.socmed-footer-flex {
-  @apply flex gap-3 p-2;
 }
